@@ -66,9 +66,14 @@ textarea {
   cursor: pointer;
 }
 
-.saveBtn i:hover {
+i {
+  margin-top: 50%;
+}
+
+.saveBtn:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
+  background-color: #008dad;
 }
 
 .confirmation {
